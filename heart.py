@@ -1,7 +1,7 @@
 import turtle
 
 turtle.speed(3)
-turtle.bgcolor("blue")
+turtle.bgcolor("red")
 turtle.pensize(3)
 def func():
     for i in range(200):

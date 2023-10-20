@@ -10,3 +10,9 @@ CRITICAL:root:This is critical
 WARNING:root:This is Warning
 ERROR:root:This is Error
 CRITICAL:root:This is Critical
+debug('this is debug')
+info('this is info')
+warning('this is warning')
+error('this is error')
+critical('this is critical')
+

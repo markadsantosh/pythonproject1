@@ -1,0 +1,5 @@
+14-Oct-23:23-40-09:DEBUG:thias is debug:4:11244
+14-Oct-23:23-40-09:INFO:this is info:5:11244
+14-Oct-23:23-40-09:WARNING:this is warning:6:11244
+14-Oct-23:23-40-09:ERROR:this is error:7:11244
+14-Oct-23:23-40-09:CRITICAL:this is critical:8:11244

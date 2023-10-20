@@ -1,0 +1,5 @@
+DEBUG:root:This is ok
+INFO:root:This is not ok
+WARNING:root:This is dangerous
+ERROR:root:This is very dangerous
+CRITICAL:root:its over
